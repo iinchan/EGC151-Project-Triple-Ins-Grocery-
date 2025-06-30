@@ -17,4 +17,4 @@
 * Presented a formatted bill (total price, total discount, gst and final payable) with summary of all ordered items and prices
 
 ## FlowChart Diagram
-![Program Flowchart](EGC151_Grp 5 Flowchart.jpg)
+![Program Flowchart](EGC151_Grp%205%20Flowchart.jpg)
