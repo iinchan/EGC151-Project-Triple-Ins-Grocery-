@@ -6,7 +6,7 @@
 * Create brand awareness
 * Assist people who have difficulties leaving their home.
 
-# Program Requirements
+## Program Requirements
 * View menu items according to Alphabetical, Price, Category Order
 * Shows respective items in category with prices when user select a category.
 * Specifying the quantity order user wants to buy.
@@ -16,3 +16,5 @@
 * If yes, 10% discount off the total ordered amount.
 * Presented a formatted bill (total price, total discount, gst and final payable) with summary of all ordered items and prices
 
+## FlowChart Diagram
+![Program Flowchart](EGC151_Grp 5 Flowchart.jpg)
