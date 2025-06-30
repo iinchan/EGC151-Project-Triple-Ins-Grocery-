@@ -1,6 +1,6 @@
 # EGC151 Project (Triple-Ins-Grocery)
 
-# Objectives of Program
+## Objectives of Program
 * To create a more user-friendly and responsive online ordering and payment system for the users.
 * Allow customers to order their groceries online rather than physically going to the supermarket.
 * Create brand awareness
