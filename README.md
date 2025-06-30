@@ -18,3 +18,6 @@
 
 ## FlowChart Diagram
 ![Program Flowchart](EGC151_Grp%205%20Flowchart.jpg)
+
+## PowerPoint Slide Link
+https://docs.google.com/presentation/d/1dCuv_fFHK2n1Jz1B8mOrWwMZRSX9DmlDZbQlDrUI6Nw/edit?usp=sharing
